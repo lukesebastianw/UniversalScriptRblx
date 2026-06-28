@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "Universal Script by Lux Hub",
+   Name = "Universal Script by lukesebastianw",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "Lux Hub",
    LoadingSubtitle = "by Scav",
@@ -17,8 +17,8 @@ local Window = Rayfield:CreateWindow({
 
    ConfigurationSaving = {
       Enabled = true,
-      FolderName = luxhub, -- Create a custom folder for your hub/game
-      FileName = "Lux Hub"
+      FolderName = "lukesw", -- Create a custom folder for your hub/game
+      FileName = "lukesebastianw"
    },
 
    Discord = {
